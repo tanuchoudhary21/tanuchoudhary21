@@ -1,4 +1,4 @@
-### Hi there I'm [Tanu!](https://akhilgkrishnan.me)👋
+### Hi there I'm [Tanu!](https://tanu-choudhary-portfolio.netlify.app/)👋
 I'm Tanu Choudhary, a 22-year old technical enthusiast who does web development. Passionate to contribute open-source projects and make cool products.<br>
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tanu-choudhary) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tanuchoudhary21) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/profile.php?id=100012374834923)
